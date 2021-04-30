@@ -75,7 +75,7 @@ pyzmq==19.0.1
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
 QtPy==1.9.0
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502882224/work
 scipy @ file:///tmp/build/80754af9/scipy_1592930510235/work
