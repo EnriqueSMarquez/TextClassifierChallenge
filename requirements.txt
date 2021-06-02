@@ -91,7 +91,7 @@ torchvision==0.6.0a0+35d732a
 tornado==6.0.4
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
 traitlets==4.3.3
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 widgetsnbextension==3.5.1
